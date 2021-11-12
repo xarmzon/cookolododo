@@ -16,6 +16,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#059669",
+        "primary-50": "#ECFDF5",
         "primary-100": "#D1FAE5",
         "primary-700": "#047857",
         "primary-dark": "#064E3B",
@@ -23,6 +24,7 @@ module.exports = {
         ascent: "#DC2626",
         "ascent-2": "#B91C1C",
         "ascent-3": "#FCD34D",
+        "ascent-4": "#EF4444",
       },
       backgroundImage: {
         cook1: `url('/images/cook1.jpg')`,
