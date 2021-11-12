@@ -22,7 +22,7 @@ const Li = ({ text1, text2 }: LiProps) => {
 
 const Functions = () => {
   return (
-    <section id="functions" className="container p-5">
+    <section id="functions" className="container p-5 mb-5">
       <h3 className="prose font-bold text-primary tracking-widest uppercase md:mt-5 mb-3 md:text-2xl">
         <span className="border-b border-ascent-5">LEGISLATIVE FUNCTIONS</span>
       </h3>
