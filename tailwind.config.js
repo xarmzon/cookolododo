@@ -25,6 +25,7 @@ module.exports = {
         "ascent-2": "#B91C1C",
         "ascent-3": "#FCD34D",
         "ascent-4": "#EF4444",
+        "ascent-dark": "#7F1D1D",
       },
       backgroundImage: {
         cook1: `url('/images/cook1.jpg')`,
