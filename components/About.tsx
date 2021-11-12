@@ -16,7 +16,7 @@ const About = () => {
       </div>
       <div className="md:w-[60%] mt-5 md:mt-0">
         <h3 className="prose font-bold text-primary tracking-widest uppercase md:mt-5 mb-3 md:text-2xl">
-          <span className="border-b border-ascent-3">About</span>
+          <span className="border-b border-ascent-5">About</span>
         </h3>
         <div className="space-y-4 text-justify pb-6">
           <p className="prose text-sm md:text-lg">

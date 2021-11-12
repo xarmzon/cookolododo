@@ -14,6 +14,9 @@ module.exports = {
       },
     },
     extend: {
+      fontFamily: {
+        brand: ["nunito", "helvetica", "sans-serif"],
+      },
       colors: {
         primary: "#059669",
         "primary-50": "#ECFDF5",
@@ -25,6 +28,7 @@ module.exports = {
         "ascent-2": "#B91C1C",
         "ascent-3": "#FCD34D",
         "ascent-4": "#EF4444",
+        "ascent-5": "#F59E0B",
         "ascent-dark": "#7F1D1D",
       },
       backgroundImage: {

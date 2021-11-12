@@ -38,9 +38,14 @@ const Navbar = () => {
         <ul className="flex justify-evenly">
           <Li name="About" url="#about" active={active === "about"} />
           <Li
-            name="Projects"
-            url="#projects"
-            active={active === "projects"}
+            name="Functions"
+            url="#functions"
+            active={active === "functions"}
+          />
+          <Li
+            name="Activities"
+            url="#activities"
+            active={active === "activities"}
             isLast
           />
         </ul>

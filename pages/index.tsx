@@ -1,8 +1,9 @@
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import { BsArrowDownCircle } from "react-icons/bs";
 import Main from "../components/Main";
 import About from "../components/About";
+import Functions from "../components/Functions";
+
 export default function Home() {
   return (
     <div className="h-screen">
@@ -10,8 +11,8 @@ export default function Home() {
         <Navbar />
         <Main />
       </header>
-
       <About />
+      <Functions />
       <Footer />
     </div>
   );

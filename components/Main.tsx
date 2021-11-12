@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <section className="p-5 md:p-0 md:w-[70%] md:mx-auto space-y-7 md:space-y-10 container">
       <Fade top>
-        <h1 className="text-center p-2 md:mt-4 text-2xl sm:text-3xl md:text:5xl uppercase font-black">
+        <h1 className="text-center p-2 md:mt-4 text-3xl sm:text-4xl md:text:6xl uppercase font-black">
           <span className="text-ascent-3">
             Hon. Abdulganiyu Saka Cook Olododo
           </span>{" "}

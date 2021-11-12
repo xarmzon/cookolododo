@@ -1,6 +1,6 @@
 import { DefaultSeo } from "next-seo";
 import { APP_NAME, DESCRIPTION } from "../utils/constants";
-import "tailwindcss/tailwind.css";
+import "../style.css";
 
 function MyApp({ Component, pageProps }) {
   return (
