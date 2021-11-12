@@ -1,0 +1,4 @@
+export const APP_NAME = "Hon. Abdulganiyu Cook Olododo";
+
+export const DESCRIPTION =
+  "It's with a great pleasure to welcome each and every like mind individuals to this platform, it's purposely created to promote all the Giant Stride of Infrastructural Projects across the Ilorin East and South beyond being facilitated by Hon Abdulganiyu Cook Olododo, series of impactful empowerment programm, and the Legislative activities of Hon Abdulganiyu Saka Cook Olododo, Member representing Ilorin East and South federal Constituency in halloween chamber, as well as other related activities to his personality and any peice information that will positively and effective be helpful in promoting our great party, (APC). This will also serve as  communication channel  for a smooth interactive discuss to achieve a political goals of  Hon Abdulganiyu Cook Olododo and his distance future political actualisation.";
