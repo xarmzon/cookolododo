@@ -1,29 +1,16 @@
-# Next.js + Tailwind CSS Example
+# Hon Abdulganiyu Saka Cook Olododo Website
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This site is purposely created to promote all the Giant Stride of Infrastructural Projects across the Ilorin East and South beyond being facilitated by Hon Abdulganiyu Cook Olododo, series of impactful empowerment programm, and the Legislative activities of Hon Abdulganiyu Saka Cook Olododo
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## Stack Used
 
-## Preview
+- NextJS
+- TypeScript
+- TailwindCSS
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+## Designed & Developed By
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Adelola Kayode Samson aka Rasta, xarm or xarmzon.
+A Mathematician, Teacher and FullStack Developer using React, NextJs, VueJs, NuxtJs, MongoDB, Postgres, MySql, Flask, Python, Express, Node etc.
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
++2348141161177, [Personal Twitter](https://www.twitter.com/xarmzon), [Brand Twitter](https://www.twiter.com/rastacl), [LinkedIn](https://www.linkedin.com/in/rastaxarm)

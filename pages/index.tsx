@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Main from "../components/Main";
 import About from "../components/About";
 import Functions from "../components/Functions";
+import Activities from "../components/Activities";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       </header>
       <About />
       <Functions />
+      <Activities />
       <Footer />
     </div>
   );

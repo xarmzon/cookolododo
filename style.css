@@ -3,11 +3,16 @@
 @tailwind utilities;
 @tailwind variants;
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 1rem;
+}
 @layer base {
   @font-face {
     font-family: "Nunito";
     src: url("./public/fonts/Nunito-Regular.ttf");
   }
+
   body {
     @apply bg-gray-100 font-brand;
   }
